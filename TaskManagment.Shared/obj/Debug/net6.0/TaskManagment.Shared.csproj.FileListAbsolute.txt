@@ -1,0 +1,11 @@
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Shared\bin\Debug\net6.0\TaskManagment.Shared.deps.json
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Shared\bin\Debug\net6.0\TaskManagment.Shared.dll
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Shared\bin\Debug\net6.0\TaskManagment.Shared.pdb
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Shared\obj\Debug\net6.0\TaskManagment.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Shared\obj\Debug\net6.0\TaskManagment.Shared.AssemblyInfoInputs.cache
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Shared\obj\Debug\net6.0\TaskManagment.Shared.AssemblyInfo.cs
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Shared\obj\Debug\net6.0\TaskManagment.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Shared\obj\Debug\net6.0\TaskManagment.Shared.dll
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Shared\obj\Debug\net6.0\refint\TaskManagment.Shared.dll
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Shared\obj\Debug\net6.0\TaskManagment.Shared.pdb
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Shared\obj\Debug\net6.0\ref\TaskManagment.Shared.dll

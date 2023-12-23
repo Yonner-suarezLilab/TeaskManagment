@@ -1,0 +1,12 @@
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Domain\obj\Debug\net6.0\TaskManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Domain\obj\Debug\net6.0\TaskManagment.Domain.AssemblyInfoInputs.cache
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Domain\obj\Debug\net6.0\TaskManagment.Domain.AssemblyInfo.cs
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Domain\obj\Debug\net6.0\TaskManagment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Domain\bin\Debug\net6.0\TaskManagment.Domain.deps.json
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Domain\bin\Debug\net6.0\TaskManagment.Domain.dll
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Domain\bin\Debug\net6.0\TaskManagment.Domain.pdb
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Domain\obj\Debug\net6.0\TaskManagment.Domain.csproj.AssemblyReference.cache
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Domain\obj\Debug\net6.0\TaskManagment.Domain.dll
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Domain\obj\Debug\net6.0\refint\TaskManagment.Domain.dll
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Domain\obj\Debug\net6.0\TaskManagment.Domain.pdb
+C:\Users\Yonne\Desktop\TaskManagment\TaskManagment.Domain\obj\Debug\net6.0\ref\TaskManagment.Domain.dll

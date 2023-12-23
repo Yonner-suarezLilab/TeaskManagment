@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  taskmanagment.api:
+    image: ${DOCKER_REGISTRY-}taskmanagmentapi
+    build:
+      context: .
+      dockerfile: TaskManagment.Api/Dockerfile

@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "n0E0riqOpxvnm2+rDN1eVNp/D+D/jZSjwekPt85aCJ0PEsPDKTm7WaxJV/UCLD+HBnIOUqbLjHvbGgjEEDS+dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yonne\\Desktop\\TaskManagment\\TaskManagment.Domain\\TaskManagment.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yonne\\.nuget\\packages\\awssdk.core\\3.7.108.2\\awssdk.core.3.7.108.2.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.101.89\\awssdk.simplenotificationservice.3.7.101.89.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\awssdk.sqs\\3.7.103.11\\awssdk.sqs.3.7.103.11.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\masstransit\\8.1.1\\masstransit.8.1.1.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\masstransit.abstractions\\8.1.1\\masstransit.abstractions.8.1.1.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\masstransit.amazonsqs\\8.1.1\\masstransit.amazonsqs.8.1.1.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\mediatr\\8.0.2\\mediatr.8.0.2.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\6.0.1\\microsoft.extensions.diagnostics.healthchecks.6.0.1.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\6.0.1\\microsoft.extensions.diagnostics.healthchecks.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\6.0.0\\microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\system.text.json\\6.0.8\\system.text.json.6.0.8.nupkg.sha512",
+    "C:\\Users\\Yonne\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
